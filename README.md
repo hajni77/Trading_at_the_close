@@ -34,5 +34,5 @@ This project explores predicting closing price movements of Nasdaq-listed stocks
   - Normalize and scale 
 - Feature selection 
   - Reduce dimensionality 
+- Feature extraction
 - Data splitting 
-- Feature extraction 
