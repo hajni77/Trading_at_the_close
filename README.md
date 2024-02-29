@@ -18,7 +18,7 @@ This project explores predicting closing price movements of Nasdaq-listed stocks
 - seconds_in_bucket: Seconds elapsed since the start of the day's closing auction
 - target: 60-second future move in the weighted average price of the stock less the synthetic index move
 
-## Data preparation pipeline 
+## Data preparation pipeline plan
 
 - Data collection 
 - Data Profiling 
